@@ -1,3 +1,8 @@
+https://www.youtube.com/watch?v=NTBj_0tIlQc
+
+https://github.com/mitchtabian/EspressoUITest-Examples
+
+
 ![UI Testing for Beginners](https://codingwithmitch.s3.amazonaws.com/static/ui-testing-for-beginners/images/UI_Testing_with_Espresso_and_androidx.test.png "UI Testing with Espresso and androidx.test")
 
 # [UI Testing for Beginners](https://codingwithmitch.com/courses/ui-testing-for-beginners/)
